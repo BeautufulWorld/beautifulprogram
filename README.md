@@ -4,6 +4,7 @@
 # pulse
 import numpy as np
 import matplotlib.pyplot as plt
+//nice, keep goin
 import matplotlib.animation as animation
 def heart_shape(t, scale=1):
     x = scale * 0.5 * np.sin(t) ** 3
