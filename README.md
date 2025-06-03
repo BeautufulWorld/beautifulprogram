@@ -37,6 +37,7 @@ def draw_column():
     screen.bgcolor("white")
     col = turtle.Turtle()
     col.shape("turtle")
+    //real
     col.color("black")
     
     # Рисуем основание колонны
