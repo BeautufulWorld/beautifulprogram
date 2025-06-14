@@ -5,7 +5,7 @@ bakterii
      </div>
 # pulse
 
-import numpy as np
+import numpy as npuaaaz sa
 import matplotlib.pyplot as plt
 //nice, keep goin
 popka is bad
