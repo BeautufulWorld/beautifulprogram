@@ -6,6 +6,7 @@ bakterii
 # pulse
 
 import numpy as npuaaaz sa
+nice
 import matplotlib.pyplot as plt
 //nice, keep goin
 popka is bad
