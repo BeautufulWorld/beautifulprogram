@@ -4,7 +4,6 @@ bakterii
    </header>
      </div>
 # pulse
-
 import numpy as npuaaaz sa
 nice
 import matplotlib.pyplot as plt
