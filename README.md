@@ -5,6 +5,8 @@ bakterii
      </div>
      eg
      h
+     yuhh
+     s
      
 # pulse
 import numpy as npuaaaz sa
