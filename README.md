@@ -9,6 +9,7 @@ bakterii
      s
      
 # pulse
+
 import numpy as npuaaaz sa
 nice
 s
